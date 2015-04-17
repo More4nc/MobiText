@@ -1,11 +1,6 @@
 ### Bienvenue sur MobiText
 La première application mobile pour envoyer des Mobitag depuis ton portable !
 
-### Disclaimer
-L’application Mobitext ne devrait causer aucun problème sur les téléphones des utilisateurs, toutefois les auteurs se dégagent de toutes responsabilités des dégâts qui pourraient être causés par cette application si vous décidez de l'installer.
-De plus, les auteurs ne pourront être tenus responsables de l'utilisation faite par les utilisateurs de l'application Mobitext.
-Enfin les utilisateurs de l'application MobiText acceptent en l'installant les conditions d'utilisation du site [Mobitag.nc](http://www.mobitag.nc) présentent sur cette page : [Conditions d'utilisation de Mobitag.nc](http://www.mobitag.nc/pop)
-
 ### Comment ?
 C'est simple :
 
@@ -26,6 +21,11 @@ C'est simple :
 ### C'est dangereux ?
 * Pas de virus !
 * On voit pas vos messages, donc on peut pas lire vos messages !
+
+### Disclaimer
+L’application Mobitext ne devrait causer aucun problème sur les téléphones des utilisateurs, toutefois les auteurs se dégagent de toutes responsabilités des dégâts qui pourraient être causés par cette application si vous décidez de l'installer.
+De plus, les auteurs ne pourront être tenus responsables de l'utilisation faite par les utilisateurs de l'application Mobitext.
+Enfin les utilisateurs de l'application MobiText acceptent en l'installant les conditions d'utilisation du site [Mobitag.nc](http://www.mobitag.nc) présentent sur cette page : [Conditions d'utilisation de Mobitag.nc](http://www.mobitag.nc/pop)
 
 ### Auteurs
 On a fait ça pour s'amuser, on espère que ça vous servira un peu. Envoyez nous vos commentaires sur twitter : [@More4NC](https://twitter.com/More4NC)
