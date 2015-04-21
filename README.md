@@ -4,6 +4,7 @@ La première application mobile pour envoyer des Mobitag depuis ton portable !
 ### Comment ?
 C'est simple :
 
+* Tu actives l'installation d'applications hors du store : Paramètres -> "Sécurité" ou "Applications" -> Cocher "Sources Inconnues"
 * Tu télécharges l'application pour Android.
 * Tu l'installes sur ton portable.
 * C'est tout !
